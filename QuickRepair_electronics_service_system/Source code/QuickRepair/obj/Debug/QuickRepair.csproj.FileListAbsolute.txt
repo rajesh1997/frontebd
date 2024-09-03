@@ -1,0 +1,30 @@
+E:\project\Electronics service system\QuickRepair\bin\Debug\QuickRepair.exe.config
+E:\project\Electronics service system\QuickRepair\bin\Debug\QuickRepair.exe
+E:\project\Electronics service system\QuickRepair\bin\Debug\QuickRepair.pdb
+E:\project\Electronics service system\QuickRepair\obj\Debug\QuickRepair.csproj.AssemblyReference.cache
+E:\project\Electronics service system\QuickRepair\obj\Debug\QuickRepair.Form1.resources
+E:\project\Electronics service system\QuickRepair\obj\Debug\QuickRepair.Properties.Resources.resources
+E:\project\Electronics service system\QuickRepair\obj\Debug\QuickRepair.service.resources
+E:\project\Electronics service system\QuickRepair\obj\Debug\QuickRepair.csproj.GenerateResource.cache
+E:\project\Electronics service system\QuickRepair\obj\Debug\QuickRepair.csproj.CoreCompileInputs.cache
+E:\project\Electronics service system\QuickRepair\obj\Debug\QuickRepair.exe
+E:\project\Electronics service system\QuickRepair\obj\Debug\QuickRepair.pdb
+E:\project\Electronics service system\QuickRepair\obj\Debug\QuickRepair.stock.resources
+E:\project\Electronics service system\QuickRepair\obj\Debug\QuickRepair.purchase.resources
+E:\project\Electronics service system\QuickRepair\obj\Debug\QuickRepair.customer.resources
+E:\project\Electronics service system\QuickRepair\obj\Debug\QuickRepair.feedback.resources
+E:\project\source_code\QuickRepair\bin\Debug\QuickRepair.exe.config
+E:\project\source_code\QuickRepair\bin\Debug\QuickRepair.exe
+E:\project\source_code\QuickRepair\bin\Debug\QuickRepair.pdb
+E:\project\source_code\QuickRepair\obj\Debug\QuickRepair.csproj.AssemblyReference.cache
+E:\project\source_code\QuickRepair\obj\Debug\QuickRepair.customer.resources
+E:\project\source_code\QuickRepair\obj\Debug\QuickRepair.feedback.resources
+E:\project\source_code\QuickRepair\obj\Debug\QuickRepair.Form1.resources
+E:\project\source_code\QuickRepair\obj\Debug\QuickRepair.Properties.Resources.resources
+E:\project\source_code\QuickRepair\obj\Debug\QuickRepair.purchase.resources
+E:\project\source_code\QuickRepair\obj\Debug\QuickRepair.service.resources
+E:\project\source_code\QuickRepair\obj\Debug\QuickRepair.stock.resources
+E:\project\source_code\QuickRepair\obj\Debug\QuickRepair.csproj.GenerateResource.cache
+E:\project\source_code\QuickRepair\obj\Debug\QuickRepair.csproj.CoreCompileInputs.cache
+E:\project\source_code\QuickRepair\obj\Debug\QuickRepair.exe
+E:\project\source_code\QuickRepair\obj\Debug\QuickRepair.pdb
